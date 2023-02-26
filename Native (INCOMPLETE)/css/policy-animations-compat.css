@@ -1,0 +1,35 @@
+.Title:nth-child(3), .Content:nth-child(4) {
+    transition-delay: 100ms;
+}
+
+.Title:nth-child(4), .Content:nth-child(5) {
+    transition-delay: 200ms;
+}
+
+.Title:nth-child(5), .Content:nth-child(6) {
+    transition-delay: 300ms;
+}
+
+.Title:nth-child(6), .Content:nth-child(7) {
+    transition-delay: 400ms;
+}
+
+.Title:nth-child(7), .Content:nth-child(8) {
+    transition-delay: 600ms;
+}
+
+.Title:nth-child(8), .Content:nth-child(9) {
+    transition-delay: 700ms;
+}
+
+.Title:nth-child(9), .Content:nth-child(10) {
+    transition-delay: 800ms;
+}
+
+.Title:nth-child(10), .Content:nth-child(11) {
+    transition-delay: 900ms;
+}
+
+.Title:nth-child(11), .Content:nth-child(13) {
+    transition-delay: 1000ms;
+}
