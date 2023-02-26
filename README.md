@@ -23,4 +23,4 @@ All the dumpfile for MySQL Database, including the ER Diagram.
 5) npm run dev
 6) once completed, type (npm run build) on foodie-express's terminal !
 <br>
-*use this foodie-react's localhost during development of Frontend*
+_use this foodie-react's localhost during development of Frontend
