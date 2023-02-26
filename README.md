@@ -6,11 +6,11 @@
 
 ### What are the folders for?
 
-foodie-express)
+1) foodie-express:
 This folder is the MAIN Express App to be run.
 
-foodie-react)
+2) foodie-react:
 Raw files of how I built my Front-end using React
 
-foodie-sql)
+3) foodie-sql:
 All the dumpfile for MySQL Database, including the ER Diagram.
