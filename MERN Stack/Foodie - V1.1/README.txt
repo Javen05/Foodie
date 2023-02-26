@@ -1,1 +1,1 @@
-Improved JWT Auth and fixed some Bugs
+Improved JsonWebToken Auth and fixed some Bugs
