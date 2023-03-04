@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/107395637/222903881-d03d7603-592c-4676-a666-4be6ea8299f2.png)
+
 ### 1) Native:
 An incomplete Food Review Website only containing a completed landing page that is made to be responsive, using HTML, CSS & JavaScript
 
