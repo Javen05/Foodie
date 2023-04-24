@@ -1,6 +1,6 @@
-##### Code is in master branch !
+> Code in master branch
 
-### About Foodie:
+## About Foodie:
 Full Stack Food Review Website, made for Temasek Polytechnic's CDEV & DBAV Modules. 
 <br>
 Presentation: https://sites.google.com/view/cdev-foodie/home
